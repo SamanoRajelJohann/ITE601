@@ -50,7 +50,7 @@ $Operators->removeOperator("Amiya")
             border: 1px solid #ccc;
         }
 
-        /* Style the table header */
+        
         table th {
             background-color: #f2f2f2;
             padding: 10px;
@@ -70,4 +70,4 @@ $Operators->removeOperator("Amiya")
 </body>
 </html>
 
-
+/*https://github.com/SamanoRajelJohann/ITE601/edit/main/Task3/Arraytask.php*/
